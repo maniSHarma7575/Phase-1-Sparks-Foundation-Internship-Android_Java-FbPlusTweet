@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FBplusTweet</string>
+    <string name="facebook_app_id">421736985044015</string>
+    <string name="fb_login_protocol_scheme">fb421736985044015</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">wmoaOk0Ll1YWh6t87OIjAPbEB</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">7ET2Wtgcf8gvACd99QUuyIzcUrDnSOnQszXHjsbGbvltn8VOQL</string>
+</resources>
